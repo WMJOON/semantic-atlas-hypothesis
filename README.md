@@ -8,6 +8,25 @@
 
 ---
 
+## Short intro (for external audience)
+
+**Semantic Atlas Working Hypothesis** proposes a way to understand how information becomes *actionable meaning* under human cognitive limits—especially in modern AI settings where information generation outpaces human processing. This repository is an open, collaborative space to explore, critique, and extend the hypothesis.
+
+## Quick links
+
+- `Docs/Glossary.md` (용어 정리 / definitions)
+- `Docs/Diagrams.md` (핵심 구조 시각화 / diagrams)
+- `Examples/` (사례 / case studies)
+- `CONTRIBUTING.md` (협업 가이드 / contributing)
+- `LICENSE` (라이선스 / license)
+
+## Next steps / TODO
+
+- [ ] Draft Physical AI case studies (추가 사례 작성)
+- [ ] Split glossary into categories (용어 분류 확장)
+- [ ] Add mermaid diagrams for Atlas structure (다이어그램 확장)
+- [ ] Create “short version” summary for general audiences (요약본 추가)
+
 ## 요약 (Abstract)
 
 생성형 AI의 확산은 명시지(explicit knowledge) 및 논리적 정보(logical information)의 생성 속도를 인간의 인지 처리 용량을 초과하는 수준으로 가속화하였다. 이로 인해 정보의 희소성이 아닌 정보 과잉이 판단 실패의 주요 원인으로 부상하고 있다. 본 가설은 이러한 현상을 의미 엔트로피(semantic entropy)가 인간 인지의 임계치를 초과한 상태로 해석하며, 정보가 실제 판단에 활용되기 위해 필요한 연산 구조를 Semantic Atlas라는 개념적 프레임워크로 제안한다.
@@ -216,6 +235,14 @@ Semantic Atlas Hypothesis는 완결된 이론으로 제시되기보다, 현재�
 특히 의미 엔트로피, 국소 좌표계, 암묵지와 명시지의 경계, Semantic Atlas와 Physical Atlas의 접점과 같은 개념들은 단일한 관점이나 개인의 사고만으로 충분히 정교화되기 어렵다. 본 가설은 다양한 실무 환경, 서로 다른 문제 영역, 그리고 각자의 인지 경험을 통해 반복적으로 검증되고 수정될 필요가 있다.
 
 본 문서가 특정 결론을 강제하기보다, 정보 과부하와 판단 실패의 원인을 설명하고 논의할 수 있는 공통 언어의 출발점이 되기를 기대한다.
+
+---
+
+## Contributing / Community
+
+📣 This is a working hypothesis and a space for collaborative thinking. If you are interested in human-centered AI design, cognitive modeling, Physical AI, or system interpretability, please join the conversation by opening issues or submitting pull requests.
+
+See `CONTRIBUTING.md` for contribution guidelines, `Docs/Glossary.md` for definitions, and `Examples/` for case-study format.
 
 ---
 
